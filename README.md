@@ -7,7 +7,7 @@
 ### 💻 Currently working on 
 - Technical Adviser 
 - Fact-Checker Aggregator Tool 
-- Product validation Tool (pin me on Linkedin if interested)
+- Product validation Tool (pin me on [Linkedin](https://www.linkedin.com/in/armelivanbado/) if interested)
 
 
 ### 🌱 Learning 
